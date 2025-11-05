@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+
+"""
+Escreva a sua solução aqui
+Code your solution here
+Escriba su solución aquí
+"""
+
+X = int(input())
+Y = float(input())
+
+consumption = X / Y
+
+print("{:.3f} km/l".format(consumption))
